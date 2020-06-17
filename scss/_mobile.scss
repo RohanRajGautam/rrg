@@ -46,7 +46,7 @@
     transform: translate3d(100%, 0, 0);
 
     .portrait {
-      background: url('../img/portrait_small.jpg');
+      background: url("../img/portrait_small.jpg");
       width: 150px;
       height: 150px;
     }
@@ -54,11 +54,11 @@
 
   .about-info {
     grid-template-areas:
-      'bioimage'
-      'bio'
-      'job1'
-      'job2'
-      'job3';
+      "bioimage"
+      "bio"
+      "job1"
+      "job2"
+      "job3";
 
     grid-template-columns: 1fr;
   }
@@ -77,7 +77,7 @@
     }
 
     .lg-heading {
-      margin-top:1rem;
+      margin-top: 1rem;
       font-size: 5rem;
     }
   }

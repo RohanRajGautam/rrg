@@ -260,14 +260,14 @@ main#home h1 {
   margin-bottom: 3rem;
   transition: all 0.5s ease-out;
 }
-.boxes div:hover {
+/* .boxes div:hover {
   padding: 0.5rem 1.5rem;
   background: #eece1a;
   color: #000;
 }
 .boxes div:hover span {
   color: #000;
-}
+} */
 
 .btn,
 .btn-dark,
